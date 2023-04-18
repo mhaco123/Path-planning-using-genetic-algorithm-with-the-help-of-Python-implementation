@@ -1,0 +1,2 @@
+# Path-planning-using-genetic-algorithm-with-the-help-of-Python-implementation
+Mobile robots (especially flying robots) in static environments need to navigate while avoiding collisions with obstacles. Therefore, it should be able to meet the defined priority by minimizing the total distance traveled, time spent, or energy consumed. The starting point to the end point (goal) should move along the allowed routes.
